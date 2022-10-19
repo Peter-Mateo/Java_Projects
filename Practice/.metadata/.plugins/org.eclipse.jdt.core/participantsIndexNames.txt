@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\12392\Desktop\Coding\Github Repositories\Web_Fundamentals-Assignments\Portfolio-Projects\Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3982113080.index
+\sample\src\main\java
+C:\Users\12392\Desktop\Coding\Github Repositories\Web_Fundamentals-Assignments\Portfolio-Projects\Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272385074.index
+\omikuji\src\main\java
+C:\Users\12392\Desktop\Coding\Github Repositories\Web_Fundamentals-Assignments\Portfolio-Projects\Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2736206003.index
+\fruityloops\src\main\java

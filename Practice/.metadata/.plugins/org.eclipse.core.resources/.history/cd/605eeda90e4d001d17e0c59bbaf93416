@@ -1,0 +1,13 @@
+package Practice;
+
+public class testSubjects {
+	// Declaring Variables 
+	protected int ID;
+	protected String name;
+	
+	testSubjects(int ID, String name){
+		this.ID = ID;
+		this.name = name;
+		System.out.println("Confirmed");
+	}
+}
