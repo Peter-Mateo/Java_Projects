@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+.center {
+	text-align: center;
+	padding-top: 200px;
+	font-size: 40px;
+}
+a {
+	margin: 10px;
+}
+
+#blue {
+	color: blue;
+}
+
+#green {
+	color:green;
+}
