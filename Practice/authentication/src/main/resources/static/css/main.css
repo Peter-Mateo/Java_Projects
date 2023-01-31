@@ -1,0 +1,39 @@
+.container{
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 5%;
+}
+header{
+	width:80%;
+	margin: auto;
+	align-items:bottom;
+	padding-top: 80px;
+	padding-left: 15%;
+}
+
+.btn{
+	padding: 10px;
+}
+
+.dark{
+	background-color: lightblue;
+}
+
+.light{
+	background-color: #93E9BE;
+}
+header ul{
+	list-style-type: none;
+}
+.home_header{
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.home_header .right{
+	display:flex;
+	flex-direction: column;
+	gap: 10px;
+}

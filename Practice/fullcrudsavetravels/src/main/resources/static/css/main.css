@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.container {
+	margin: 40px;
+	padding: 40px;
+	background-color: lightgrey;
+}
+
+.error {
+	color: #F9214B;
+	font-weight: bold;
+}

@@ -1,0 +1,27 @@
+.container{
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 5%;
+}
+header{
+	width:80%;
+	margin: auto;
+	padding-top: 80px;
+}
+
+.btn{
+	padding: 10px;
+}
+
+.dark{
+	background-color: lightblue;
+}
+
+.light{
+	background-color: #93E9BE;
+}
+header ul{
+	list-style-type: none;
+}
