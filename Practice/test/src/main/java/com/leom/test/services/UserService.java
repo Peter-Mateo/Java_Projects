@@ -1,4 +1,4 @@
-package com.peterm.test.services;
+package com.leom.test.services;
 
 import java.util.Optional;
 
@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
 
-import com.peterm.test.models.LoginUser;
-import com.peterm.test.models.User;
-import com.peterm.test.repositories.UserRepository;
+import com.leom.test.models.LoginUser;
+import com.leom.test.models.User;
+import com.leom.test.repositories.UserRepository;
 
 
 @Service

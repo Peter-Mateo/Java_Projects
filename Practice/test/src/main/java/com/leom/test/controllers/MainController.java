@@ -1,4 +1,4 @@
-package com.peterm.test.controllers;
+package com.leom.test.controllers;
 
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
@@ -13,11 +13,11 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.peterm.test.models.LoginUser;
-import com.peterm.test.models.Show;
-import com.peterm.test.models.User;
-import com.peterm.test.services.ShowService;
-import com.peterm.test.services.UserService;
+import com.leom.test.models.LoginUser;
+import com.leom.test.models.Show;
+import com.leom.test.models.User;
+import com.leom.test.services.ShowService;
+import com.leom.test.services.UserService;
 
 
 @Controller

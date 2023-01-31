@@ -1,4 +1,4 @@
-package com.peterm.test.services;
+package com.leom.test.services;
 
 
 import java.util.List;
@@ -8,8 +8,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
 
-import com.peterm.test.models.Show;
-import com.peterm.test.repositories.ShowRepository;
+import com.leom.test.models.Show;
+import com.leom.test.repositories.ShowRepository;
 
 @Service
 public class ShowService {

@@ -1,11 +1,11 @@
-package com.peterm.test.repositories;
+package com.leom.test.repositories;
 
 import java.util.Optional;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.peterm.test.models.User;
+import com.leom.test.models.User;
 
 
 @Repository

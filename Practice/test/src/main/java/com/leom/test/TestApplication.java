@@ -1,4 +1,4 @@
-package com.peterm.test;
+package com.leom.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

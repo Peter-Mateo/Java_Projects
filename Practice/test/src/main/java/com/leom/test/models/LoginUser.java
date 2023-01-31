@@ -1,4 +1,4 @@
-package com.peterm.test.models;
+package com.leom.test.models;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
